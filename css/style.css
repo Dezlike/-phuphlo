@@ -1,0 +1,41 @@
+body{
+  background: radial-gradient(circle, rgba(187,85,255,0.6334908963585435) 0%, rgba(252,36,36,0.639093137254902) 47%, rgba(125,252,69,0.700717787114846) 100%);
+}
+.wrapper{
+  overflow: hidden;
+  min-height: 100%;
+}
+.header {
+}
+.main{
+  min-height: 100%;
+}
+.phon {
+  
+  max-width: 1800px;
+  background-color: rgba(208, 255, 0, 0.767);
+}
+.phon__element {
+  position: relative;
+}
+.phon__element--left {
+}
+.phon__element--center {
+  width: 350px;
+  height: 640px;
+  background-color: rgba(220, 43, 226, 0.86);
+  border-radius: 30px;
+  top: ;
+  left: ;
+
+}
+.phon__dynamic {
+}
+.phon__display {
+}
+.display {
+}
+.display__logo {
+}
+.phon__element--right {
+}
